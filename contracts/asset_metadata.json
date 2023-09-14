@@ -1,0 +1,33 @@
+{
+    "name": "Comrade Idan",
+    "description": "An Idan is special, and a special idan must be a comrade!",
+    "image": "ipfs://QmQJLvGR6kCjdWNS71bDtjhZjiWAyVM8mHa9MgmwhLvTBR",
+    "attributes": [
+        {
+            "trait_type" : "Level",
+            "value" : 5
+        },
+        {
+            "trait_type" : "Nationality",
+            "value" : "Nigerian"
+        },
+        {
+            "trait_type" : "Occupation",
+            "value" : "Comrade"
+        },
+        {
+            "trait_type" : "Personality",
+            "value" : "Being Idan"
+        },
+        {
+            "display_type" : "boost_number",
+            "trait_type" : "Power",
+            "value" : 90
+        },
+        {
+            "display_type" : "boost_percentage",
+            "trait_type" : "Effectiveness",
+            "value" : 90
+        }
+    ]
+}
